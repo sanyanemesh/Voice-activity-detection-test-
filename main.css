@@ -1,0 +1,21 @@
+body {
+  margin:0;
+}
+
+#container {
+  display: flex;
+}
+video {
+  width: 60vw;
+  height:auto;
+}
+
+span {
+  width: 40vw;
+  height: auto;
+  background-color: gray;
+}
+
+.green {
+  background-color: green;
+}
