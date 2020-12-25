@@ -5,6 +5,13 @@ body {
 #container {
   display: flex;
 }
+
+button {
+  display: block;
+  width: 25vw;
+  height: 50px;
+  margin: 0 auto;
+}
 video {
   width: 60vw;
   height:auto;
